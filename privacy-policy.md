@@ -14,12 +14,15 @@
         h1, h2, h3 {
             color: #333;
         }
+        a {
+            color: #0066cc;
+        }
     </style>
 </head>
 <body>
 
 <h1>Privacy Policy — Cross Stitch Designer</h1>
-<p><strong>Last Updated:</strong> 14/11/2025 </p>
+<p><strong>Last Updated:</strong> 14/11/2025</p>
 
 <p>Thank you for using <strong>Cross Stitch Designer</strong> (“the App”). 
 This Privacy Policy explains how we collect, use, and protect your information.</p>
@@ -29,55 +32,43 @@ This Privacy Policy explains how we collect, use, and protect your information.<
 <h2>1. Information We Collect</h2>
 
 <h3>1.1. Google Sign-In</h3>
-<p>
-When you log in using <strong>Google Sign-In</strong>, we collect:
+<p>When you log in using <strong>Google Sign-In</strong>, we collect:</p>
 <ul>
     <li>Email address</li>
     <li>Google account ID (unique identifier)</li>
     <li>Display name (if provided)</li>
     <li>Profile photo URL (optional)</li>
 </ul>
-This information is used to create and manage your account, identify your premium membership, 
-and sync your access across devices.
-</p>
+<p>This information is used to create and manage your account, identify your premium membership, and sync your access across devices.</p>
 
 <h3>1.2. Payment Information via Stripe</h3>
-<p>
-If you purchase a premium membership, payments are processed securely by <strong>Stripe</strong>.
-Stripe may collect:
+<p>If you purchase a premium membership, payments are processed securely by <strong>Stripe</strong>. Stripe may collect:</p>
 <ul>
     <li>Email address</li>
     <li>Payment method details</li>
     <li>Billing information</li>
     <li>Transaction history</li>
 </ul>
-We <strong>do not</strong> store credit card information or sensitive billing data on our servers.
-</p>
+<p>We do <strong>not</strong> store credit card information or sensitive billing data on our servers.</p>
 
 <h3>1.3. App Usage & Diagnostics</h3>
-<p>
-We may receive anonymized technical data such as:
+<p>We may receive anonymized technical data such as:</p>
 <ul>
     <li>Crash reports</li>
     <li>Device type</li>
     <li>Operating system version</li>
     <li>General usage analytics</li>
 </ul>
-This data is provided through Google Play Services to improve app stability and performance.
-</p>
+<p>This data is provided through Google Play Services to improve app stability and performance.</p>
 
 <h3>1.4. User-Created Content</h3>
-<p>
-The App allows you to create designs, import images, and save/export files.
-<strong>Your designs remain on your device</strong> unless you manually export or share them.
-</p>
+<p>The App allows you to create designs, import images, and save/export files. <strong>Your designs remain on your device</strong> unless you manually export or share them.</p>
 
 <hr />
 
 <h2>2. How We Use Your Information</h2>
-<p>
-We use collected information to:
-</p>
+
+<p>We use collected information to:</p>
 <ul>
     <li>Authenticate users with Google Sign-In</li>
     <li>Provide and manage premium membership</li>
@@ -114,17 +105,12 @@ We use collected information to:
 <hr />
 
 <h2>5. Permissions Used</h2>
-
-<p><strong>Storage / Photos & Media:</strong>  
-Used to import images for pattern creation and save/export your designs.  
-We only access files you explicitly select.</p>
+<p><strong>Storage / Photos & Media:</strong> Used to import images for pattern creation and save/export your designs. We only access files you explicitly select.</p>
 
 <hr />
 
 <h2>6. Children’s Privacy</h2>
-<p>
-The App is not intended for children under age 13. We do not knowingly collect information from children.
-</p>
+<p>The App is not intended for children under age 13. We do not knowingly collect information from children.</p>
 
 <hr />
 
@@ -138,6 +124,7 @@ The App is not intended for children under age 13. We do not knowingly collect i
 <hr />
 
 <h2>8. Your Rights</h2>
+
 <p>You may request to:</p>
 <ul>
     <li>Delete your account and associated data</li>
@@ -149,17 +136,15 @@ The App is not intended for children under age 13. We do not knowingly collect i
 <hr />
 
 <h2>9. Changes to This Policy</h2>
-<p>
-We may update this Privacy Policy at any time. Updates will be posted here with a revised "Last Updated" date.
-</p>
+<p>We may update this Privacy Policy at any time. Updates will be posted here with a revised "Last Updated" date.</p>
 
 <hr />
 
 <h2>10. Contact Us</h2>
 <p>
 If you have any questions, please contact us at:<br /><br />
-<strong>Email:</strong> [Your Support Email]<br />
-<strong>Developer/Publisher:</strong> [Your Name or Company]
+<strong>Email:</strong> support@x-stitch.app<br />
+<strong>Developer/Publisher:</strong> Cross Stitch Designer]
 </p>
 
 </body>
